@@ -35,4 +35,4 @@ The project analyses the collected data to explore how the COVID pandemic affect
 - The data shows that more death cases were recorded in states with low or insufficient health systems. States like Lagos and Edo with similar level of health system recorded high death rates compared to states like Delta and Kaduna.
 - There was a drop in GDP in the third quarter of 2020. This indicates the negative effect the pandemic had on the economy.
 - Due to the economic impact of the COVID-19 pandemic across the country, it was observed that all the states had their budgets revised. No state had the revised budget above the initial one. This goes to show how critical the pandemic affected lives across the country. 
-![Dashboard 1.png](attachment:5401ad90-917c-434d-b9c8-757f6df640ff.png)
+![Dashboard 1.png](https://public.tableau.com/app/profile/chukwudike.ofodum/viz/NigeriaCOVIDData2/Dashboard1)
