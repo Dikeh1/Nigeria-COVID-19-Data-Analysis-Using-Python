@@ -6,6 +6,7 @@ Nigeria, a West-African country, has also been affected by the COVID-19 pandemic
 ### **Data Collection**
 The data source is divided into different parts, and these data will be combined to perform analysis and provide insights. Some of the data set was got from the [Github link](https://github.com/Ustacky-dev/Nigeria-COVID-19-Data-Analysis-Using-Python).
 
+### KEY FINDINGS
 #### **1. The Nigeria Centre for Diseases Control (NCDC)**: 
 The institution monitors the country’s COVID-19 situation, and releases data on metrics across all the 37 states in the country. From [NCDC](https://covid19.ncdc.gov.ng/) COVID-19 official website, performing a web extraction or web scraping, covid data was extracted.
 
