@@ -1,5 +1,5 @@
 # Nigeria COVID-19 Data Analysis using Python
-![shutterstock_1697804203.jpg](attachment:e4da96ad-de66-4745-95d9-f11a61a4cae6.jpg)
+![covid](https://github.com/user-attachments/assets/a40871c4-7f33-4f08-bde7-6bfaf9c6ae5b)
 ## Overview
 An infectious condition known as coronavirus disease (COVID-19) is brought on by a recently identified coronavirus. A person infected with the COVID-19 virus may develop mild to moderate respiratory infection and recover without the need for special care, while symptoms can occasionally be severe.  
 Nigeria, a West-African country, has also been affected by the COVID-19 pandemic after recording its first case on 27th February 2020. Nigeria is a country with 37 states - Federal Capital Territory included- and a fast-growing economic environment with about 200 million citizens. COVID-19 has affected several country activities as the country steadily progressed from its first case to shutting down major airports, state-wide lockdown, curfews, and reviving its economy.
