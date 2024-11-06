@@ -6,7 +6,6 @@ Nigeria, a West-African country, has also been affected by the COVID-19 pandemic
 ### **Data Collection**
 The data source is divided into different parts, and these data will be combined to perform analysis and provide insights. Some of the data set was got from the [Github link](https://github.com/Ustacky-dev/Nigeria-COVID-19-Data-Analysis-Using-Python).
 
-### KEY FINDINGS
 #### **1. The Nigeria Centre for Diseases Control (NCDC)**: 
 The institution monitors the country’s COVID-19 situation, and releases data on metrics across all the 37 states in the country. From [NCDC](https://covid19.ncdc.gov.ng/) COVID-19 official website, performing a web extraction or web scraping, covid data was extracted.
 
@@ -26,6 +25,8 @@ Data on the Real Domestic Gross Product(GDP) data for Nigeria was extracted. Thi
 #### **5. State Budget Data**
 States across the country reduced their initial budget due to the impact of COVID-19 on the economy. We will used the data provided to determine the impact of COVID-19 on the economy.
 The project analyses the collected data to explore how the COVID pandemic affected Nigeria. 
+
+### KEY FINDINGS
 - It was observed that Lagos had the highest confirmed COVID_19 cases. We then have the FCT and Rivers state also with high confirmed cases after Lagos state.
 - Lagos state recorded the highest recovery and discharged cases accompanied by the FCT and Rivers state.
 - There was a daily increase in the number of confirmed cases, hitting above 250,000 in 2022. From september 2022, the number of confirmed cases remained relatively the same all through to January 2023.
